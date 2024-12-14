@@ -57,11 +57,12 @@ The **CricketScore** app is a dynamic, responsive React Native application that 
    - React Native CLI installed.
    - Android Studio or Xcode for running the app on emulators.
 
-2. **Clone the Repository**:
+2. **Download The ZIP File**:
 
    ```bash
-   git clone <repository-url>
-   cd CricketScore
+   Download the .zip file
+   Extract the file
+   Open the Project folder in a IDE
    ```
 
 3. **Install Dependencies**:
